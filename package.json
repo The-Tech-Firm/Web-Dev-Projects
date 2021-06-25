@@ -1,6 +1,7 @@
 {
-    "title": "New Age",
+    "title": "Web App",
     "name": "Home Page",
+    "homepage": "https://code.gen.in",
     "version": "6.0.2",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
