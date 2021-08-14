@@ -1,5 +1,5 @@
 Thanks for downloading this template!
 
 Template Name: CODEGEN
-Author: Himangshu De
+Author: CODEGEN
 License: MIT LICENSE
